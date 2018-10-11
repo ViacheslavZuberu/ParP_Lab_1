@@ -1,0 +1,19 @@
+﻿  Lab1_ShevTem.cpp
+g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(24): warning C4101: sys_time: неиспользованная локальная переменная
+g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(149): warning C4244: =: преобразование "__int64" в "DWORD", возможна потеря данных
+g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(370): warning C4477: "wprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "time_t"
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(370): note: рекомендуется использовать "%lld" в строке форматирования
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(370): note: рекомендуется использовать "%I64d" в строке форматирования
+g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(495): warning C4477: "wprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "time_t"
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(495): note: рекомендуется использовать "%lld" в строке форматирования
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(495): note: рекомендуется использовать "%I64d" в строке форматирования
+g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(497): warning C4477: "wprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "time_t"
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(497): note: рекомендуется использовать "%lld" в строке форматирования
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(497): note: рекомендуется использовать "%I64d" в строке форматирования
+g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(500): warning C4477: "wprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "time_t"
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(500): note: рекомендуется использовать "%lld" в строке форматирования
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(500): note: рекомендуется использовать "%I64d" в строке форматирования
+g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(502): warning C4477: "wprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "time_t"
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(502): note: рекомендуется использовать "%lld" в строке форматирования
+  g:\nure\3 курс\парп\lab1_shevtem\lab1_shevtem\lab1_shevtem.cpp(502): note: рекомендуется использовать "%I64d" в строке форматирования
+  Lab1_ShevTem.vcxproj -> G:\NURE\3 курс\ПарП\Lab1_ShevTem\Debug\Lab1_ShevTem.exe
